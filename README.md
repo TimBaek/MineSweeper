@@ -1,5 +1,5 @@
 # MineSweeper
-Single Player based compiler game.
+Single Player based console game.
 
 ## Tools ##
 - IDE: Ready to Program

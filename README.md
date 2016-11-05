@@ -1,5 +1,5 @@
-# Bomb Sweeper
-Single Player based console game.
+# Minesweeper
+Classical interactive single-player puzzle game.
 
 ## Tools ##
 - IDE: Ready to Program

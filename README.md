@@ -1,4 +1,4 @@
-# MineSweeper
+# Bomb Sweeper
 Single Player based console game.
 
 ## Tools ##
